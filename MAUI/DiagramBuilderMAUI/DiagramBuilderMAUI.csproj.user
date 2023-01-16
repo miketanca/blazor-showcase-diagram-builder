@@ -6,7 +6,7 @@
     <ActiveDebugProfile>Windows Machine</ActiveDebugProfile>
     <SelectedDevice>pixel_5_-_api_30</SelectedDevice>
     <SelectedPlatformGroup>Emulator</SelectedPlatformGroup>
-    <DefaultDevice>pixel_5_-_api_30</DefaultDevice>
+    <DefaultDevice>pixel_5_-_api_31</DefaultDevice>
     <_LastSelectedProfileId>D:\Volume 2022 Release\MAUI\New Builder\DiagramBuilderMAUI2\DiagramBuilderMAUI\DiagramBuilderMAUI\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net6.0-android|AnyCPU'">
